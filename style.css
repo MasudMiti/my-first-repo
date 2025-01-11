@@ -122,6 +122,85 @@ nav ul button:hover{
   padding: 10px 20px;
 }
 
+/* section 2 */
+.title-more{
+  width: 80%;
+  margin: 20px auto;
+}
+.heading-more{
+margin-bottom: 20px;
+}
+.para{
+  font-size: 14px;
+}
+#section-2{
+  width: 80%;
+  background-color: #F5F5F5;
+  margin: 20px auto;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+.card-again{
+  padding: 10px 20px;
+}
+.card-one{
+  background-color: #D5E1F5;
+  border-radius: 10px;
+}
+.card-two{
+  background-color: #C6E4D6;
+  border-radius: 10px;
+}
+.card-three{
+  background-color: #F7EBCF;
+  border-radius: 10px;
+}
+.btn-one{
+  background-color: #98BCF9;
+  border: none;
+  border-radius: 10px;
+  padding: 10px 20px;
+  margin-top: 20px;
+  color: white;
+  transition: 0.5s;
+}
+
+.btn-two{
+  background-color: #09A15C;
+  border: none;
+  border-radius: 10px;
+  padding: 10px 20px;
+  margin-top: 20px;
+  color: white;
+  transition: .3s;
+}
+
+.btn-three{
+  background-color: #FFC239;
+  border: none;
+  border-radius: 10px;
+  padding: 10px 20px;
+  margin-top: 20px;
+  color: white;
+  transition: .5s;
+}
+.btn-one:hover{
+  background-color: red;
+  scale: .7;
+}
+.btn-two:hover{
+  background-color: blueviolet;
+  scale: .8;
+  color: white;
+}
+.btn-three:hover{
+  background-color: purple;
+  scale: .7;
+}
+
+
+
 
 
 
