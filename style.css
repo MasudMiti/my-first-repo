@@ -199,6 +199,29 @@ margin-bottom: 20px;
   scale: .7;
 }
 
+/* another div */
+.another-div{
+  margin: 20px auto;
+  background-image: url(https://github.com/ProgrammingHero1/B11A1--assignment-1/blob/main/assets/quote-bg.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: start;
+}
+
+.my-div{
+  margin: 0px auto;
+}
+
+#my-section{
+  width: 80%;
+  background-color: #fff;
+  margin: 0px auto;
+  padding: 15px 25px;
+  margin-bottom: 50px;
+  border-radius: 10px;
+}
+small{
+  opacity: .6;
+}
 
 
 
