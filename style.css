@@ -273,8 +273,70 @@ small{
   padding-left: 30px;
 }
 
+/* button styling */
+.donate{
+  width: 80%;
+  margin: 20px auto;
+  text-align: center;
+}
+.hello-donate{
+  margin-bottom: 15px;
+}
+.btn-group{
+  width: 80%;
+  margin: 20px auto;
+}
+.btn-family{
+  background-color: #fff;
+  color: black;
+  font-size: 28px;
+  font-weight: 700;
+  padding: 15px 25px;
+  border-radius: 10px;
+  margin: 38px;
+  border: none;
+}
+input{
+  display: block;
+  width: 100%;
+  padding: 16px;
+  text-align: center;
+  border: none;
+  border-radius: 5px;
+}
+.buttonn{
+   background-color: #C6E4D6;
+}
+.btn-8{
+  display: inline-block;
+  border: none;
+  background-color: darkgreen;
+  padding: 10px 25px;
+  text-align: center;
+  color: white;
+  border-radius: 5px;
+  margin-bottom: 40px;
+}
+.btn-8:hover{
+  background-color: rgb(215, 21, 21);
+  color: white;
+}
+.btn-div{
+  width: 80%;
+  margin: 20px auto;
+  text-align: center;
+}
 
-
+.mother{
+  background-color: #C6E4D6;
+  width: 80%;
+  text-align: center;
+ margin: 20px auto;
+ padding: 50px 50px;
+}
+.last-span{
+  display: inline;
+}
 
 
  
