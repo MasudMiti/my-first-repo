@@ -78,4 +78,51 @@ nav ul button:hover{
   background-color: rgb(212, 42, 42);
 }
 
+/* section part */
+
+#parent-section{
+  width: 80%;
+  height: 300px;
+  margin: 20px auto;
+  box-shadow: ;
+  padding: 20px 0px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 15px;
+  justify-content: center;
+  align-items: center;
+}
+#head-title{
+  margin-top: 30px;
+  font-weight: bolder;
+  margin-left: 120px;
+}
+.child{
+  background-color: #fff;
+  
+}
+.card-1{
+  box-shadow: 1px 1px 15px; rgba(0, 0, 0, 0.8);
+  border-radius: 10px;
+  padding: 10px 20px;
+}
+.card-2{
+  box-shadow: 1px 1px 15px; rgba(0, 0, 0, 0.8);
+  border-radius: 10px;
+  padding: 10px 20px;
+}
+.card-3{
+  box-shadow: 1px 1px 15px; rgba(0, 0, 0, 0.8);
+  border-radius: 10px;
+  padding: 10px 20px;
+}
+.card-4{
+  box-shadow: 1px 1px 15px; rgba(0, 0, 0, 0.8);
+  border-radius: 10px;
+  padding: 10px 20px;
+}
+
+
+
+
  
